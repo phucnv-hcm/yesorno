@@ -30,6 +30,8 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Van An', 'score': -2},
       ],
     },
+    // ToDo: Add a question has only two options
+
   ];
 
   var _questionIndex = 0;
